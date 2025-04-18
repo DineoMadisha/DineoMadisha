@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DineoMadisha
-- 👀 I’m interested in web development and software engineering
+- 👀 I’m interested in software testing and software engineering
 - 🌱 I’m currently learning information Technology in software development
 - 💞️ I’m looking to collaborate on doing new projects front end and back end development.
 - 📫 How to reach me email: dineomadisha66@gmail.com.
